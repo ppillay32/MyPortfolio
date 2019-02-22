@@ -1,2 +1,2 @@
 # MyPortfolio
-This is my professional Portfolio using Aws
+This is my professional Portfolio, Built using Aws and Reactjs
